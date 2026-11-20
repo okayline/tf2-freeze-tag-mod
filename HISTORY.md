@@ -38,7 +38,8 @@ By 2026, 1.1.4 no longer started rounds on current TF2 (spawn points now come ba
 ## License
 
 - Chase's 2009 plugin: GPL v2 or later (stated in its source).
-- Friagram's 1.1.4: **no license is stated** in the source file or in anything found so far. Until that's known, this repo has no license file, and the plugin remains Friagram's work.
+- Friagram's 1.1.4: **no license is stated** in the source file or in anything found so far.
+- SourceMod's license FAQ says plugins are derivative works of SourceMod and "must be under the GPL, version 3" (https://www.sourcemod.net/license.php). So Friagram's plugin, and this patched version, are GPLv3. This repo's `LICENSE` is the GPLv3 text; Friagram remains the original author.
 
 ## Sources
 

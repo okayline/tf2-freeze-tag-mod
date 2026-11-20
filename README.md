@@ -63,3 +63,7 @@ This needs SourceMod 1.12's include files plus `tf2items.inc` from the TF2Items 
 Freeze Tag is Friagram's work; this repo only carries the fixes above. Shared as-is, no support promised.
 
 For where the plugin came from (Chase's 2009 Freeze Tag, Friagram's 2012–2013 versions) and what's known about its license, see [HISTORY.md](HISTORY.md).
+
+## License
+
+GPL v3 (see [LICENSE](LICENSE)). SourceMod requires plugins to be GPLv3; Freeze Tag is Friagram's work, this repo only adds the fixes.
